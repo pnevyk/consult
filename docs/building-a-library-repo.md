@@ -80,6 +80,13 @@ Exceptions:
   The next install or sync tries the download again.
 - **Text you ship yourself.** If the directory already has an `index.md`, the skill uses it and downloads nothing.
 
+### Copyright
+
+Commit only metadata, never the text of documents you do not own.
+Ship an `index.md` only when you are the author or the license of the document allows redistribution.
+Write the `summary` and `when-to-read` in your own words, do not copy text from the document.
+Make a best effort to follow copyright law, and remove a document when its author asks.
+
 To check what the skill extracts from a page, run `node .agents/skills/consult/scripts/extract.mjs <url>`.
 
 ## 2. Lay out the repository

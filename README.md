@@ -144,3 +144,8 @@ A library installed from a local directory is recorded by its absolute path, so 
 ## Contributing
 
 See the [Contributing guide](CONTRIBUTING.md).
+
+## License
+
+Code and library metadata: [MIT](LICENSE).
+Fetched documents belong to their authors, see [NOTICE.md](NOTICE.md).
