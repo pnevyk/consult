@@ -1,0 +1,70 @@
+name: Add document
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: URL of the article to fetch (a URL already in the library is updated)
+        required: true
+        type: string
+      library:
+        description: Target library (creating a new library is a manual process)
+        required: true
+        type: choice
+        options:
+          - software-design
+          - software-craft
+          - web-development
+          - software-documentation
+          - ai-engineering
+          - ai-essays
+          - engineering-teams
+          - thinking
+
+concurrency:
+  group: add-document
+
+permissions:
+  contents: write
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch document
+        id: fetch
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          URL: ${{ inputs.url }}
+          LIBRARY: ${{ inputs.library }}
+        run: |
+          dir=$(node scripts/add-document.mjs "$URL" "$LIBRARY")
+          if git ls-files --error-unmatch "$dir/metadata.json" >/dev/null 2>&1; then
+            echo "verb=update" >> "$GITHUB_OUTPUT"
+          else
+            echo "verb=add" >> "$GITHUB_OUTPUT"
+          fi
+          echo "title=$(jq -r .title "$dir/metadata.json")" >> "$GITHUB_OUTPUT"
+
+      - name: Commit
+        env:
+          LIBRARY: ${{ inputs.library }}
+          VERB: ${{ steps.fetch.outputs.verb }}
+          TITLE: ${{ steps.fetch.outputs.title }}
+        run: |
+          git config user.name "consult"
+          git config user.email "consult@users.noreply.github.com"
+          git add -A libraries
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "docs($LIBRARY): $VERB $TITLE"
+          git pull --rebase
+          git push
