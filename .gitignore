@@ -1,0 +1,4 @@
+# libraries installed into the skill while developing it (and their lockfile, which at
+# project level sits in the project root = this repository's root)
+skills/consult/references/libs/
+consult-lock.json
