@@ -1,0 +1,12 @@
+{
+  "title": "On meetings",
+  "summary": "A framework for asynchronous-first communication that prioritizes direct problem-solving through structured async messages with specific required information (goal, context, deadline, what was tried) and concrete evidence (live URLs, repos, demos, data) over scheduled meetings.",
+  "when-to-read": "When you need to request a decision, feedback, or input from a senior engineer or stakeholder and want to maximize the chance of a quick, substantive response. If you're looking for general best practices on running effective meetings or how to structure a meeting agenda, consult documentation on meeting facilitation instead.",
+  "source-url": "https://shyamal.me/blog/meetings/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "decision-making",
+    "engineering-management",
+    "communication-efficiency"
+  ]
+}

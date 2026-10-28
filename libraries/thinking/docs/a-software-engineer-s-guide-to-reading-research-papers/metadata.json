@@ -1,0 +1,13 @@
+{
+  "title": "A Software Engineer's Guide to Reading Research Papers",
+  "summary": "Multi-pass framework for reading research papers efficiently: first pass (abstract, introduction, results, conclusion) for context, second pass (deep dive into methods) with note-taking, background research on unfamiliar terms and references, third pass (reconnecting with new context), and optional teaching step for mastery. Includes guidance on using AI assistants as collaborative tools rather than summary generators.",
+  "when-to-read": "Read this when you're beginning to engage with research papers in your domain or finding the dense technical writing intimidating. If you're specifically looking for strategies to implement a particular algorithm or technique from a paper, consult domain-specific implementation guides instead.",
+  "source-url": "https://blog.codingconfessions.com/p/a-software-engineers-guide-to-reading-papers",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "problem-solving",
+    "decision-making",
+    "technical-writing",
+    "ai-engineering"
+  ]
+}

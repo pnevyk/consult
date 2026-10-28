@@ -1,0 +1,11 @@
+{
+  "title": "Modularizing React Applications with Established UI Patterns",
+  "summary": "Layered frontend architecture and separation of concerns in React applications, using Presentation-Domain-Data layering patterns with refactoring examples demonstrating polymorphism, hooks extraction, and business model encapsulation.",
+  "when-to-read": "When you need guidance on structuring a React application beyond simple components to handle growing business logic and maintainability challenges. If you're looking for patterns on testing individual pieces of React components (units), consult the testing tag instead.",
+  "source-url": "https://martinfowler.com/articles/modularizing-react-apps.html",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "software-architecture",
+    "code-quality"
+  ]
+}

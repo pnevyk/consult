@@ -1,0 +1,13 @@
+{
+  "title": "Agents Need Control Flow, Not More Prompts",
+  "summary": "Argues that reliable AI agents require deterministic control flow and explicit state management rather than elaborate prompt chains; emphasizes the need for programmatic verification and error detection to prevent silent failures.",
+  "when-to-read": "Read this when designing or architecting AI agent systems where reliability and composability are critical concerns. If you're looking for general prompt engineering techniques or optimization strategies for better LLM outputs, consult prompt-engineering resources instead; this article explicitly argues against solving agent problems through prompting alone.",
+  "source-url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "software-architecture",
+    "reliability",
+    "decision-making"
+  ]
+}

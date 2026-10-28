@@ -1,0 +1,12 @@
+{
+  "title": "Keep Things Brutally Simple",
+  "summary": "Advocates prioritizing simplicity and YAGNI over premature abstractions, future-proofing, and DRY principles; argues that complexity is the primary killer of long-lived programs and that writing only necessary code today builds more reliable systems than anticipating future needs.",
+  "when-to-read": "When deciding whether to add infrastructure, abstractions, or code to handle anticipated future scenarios. Distinguish from articles on code organization and modularity (see software-architecture tag), which address how to structure necessary code rather than what code should be written in the first place.",
+  "source-url": "https://www.teamten.com/lawrence/programming/keep-things-brutally-simple.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "code-quality",
+    "problem-solving",
+    "decision-making"
+  ]
+}

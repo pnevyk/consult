@@ -1,0 +1,13 @@
+{
+  "title": "How Google Measures and Manages Tech Debt",
+  "summary": "Google's framework for defining technical debt across ten categories (migration needs, documentation gaps, testing, code quality, dead code, code degradation, knowledge gaps, problematic dependencies, failed migrations, outdated release processes) and managing it through a maturity model with four levels (Reactive, Proactive, Strategic, Structural) supported by surveys, dashboards, and organizational incentives.",
+  "when-to-read": "Read this when you need to systematically identify, measure, and prioritize technical debt across your team or organization, or when you're struggling to justify technical debt remediation work to leadership. If you're looking narrowly for code-quality metrics or automated technical debt detection systems, see the code-quality tag instead, as this article covers why automated metrics fail and emphasizes survey-based approaches.",
+  "source-url": "https://newsletter.techworld-with-milan.com/p/how-google-measures-and-manages-tech",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "code-quality",
+    "engineering-management",
+    "decision-making"
+  ]
+}

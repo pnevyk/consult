@@ -1,0 +1,10 @@
+{
+  "title": "Writing Commit Messages",
+  "summary": "Focuses on information content over style: who reads commit messages, what they need, and how to structure intent, context, and reasoning.",
+  "when-to-read": "Read when composing commit messages or setting team conventions for them. Do not read for general code comments or documentation, or for broader engineering-communication practices unrelated to version-control history.",
+  "source-url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/commit-messages/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "version-control"
+  ]
+}

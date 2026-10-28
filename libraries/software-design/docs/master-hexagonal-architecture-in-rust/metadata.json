@@ -1,0 +1,13 @@
+{
+  "title": "Master Hexagonal Architecture in Rust",
+  "summary": "Comprehensive guide to implementing hexagonal architecture in Rust using the repository pattern, domain models, service traits, and dependency injection to decouple business logic from infrastructure concerns like HTTP servers and databases.",
+  "when-to-read": "Read this when you're designing a Rust application's architecture and need guidance on organizing code to improve testability, maintainability, and resilience to dependency changes. If you're looking for general patterns to separate concerns, consult this article; if you need immediate answers on code organization without architectural context, see the decision-making or problem-solving tags instead.",
+  "source-url": "https://www.howtocodeit.com/guides/master-hexagonal-architecture-in-rust",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "code-quality",
+    "testing",
+    "decision-making"
+  ]
+}

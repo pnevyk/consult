@@ -1,0 +1,13 @@
+{
+  "title": "Where Does the Rigor Go? Engineering Rigor in AI-Assisted Code Development",
+  "summary": "Explores how the four functions of code review (mentorship, consistency, correctness, trust) must be redistributed when AI generates code, including five migration patterns: spec review, test-driven development, type systems, risk mapping, and continuous comprehension practices.",
+  "when-to-read": "Read this when evaluating how to maintain engineering rigor and quality assurance processes as AI-assisted code generation becomes central to your development workflow. This is distinct from general AI engineering practices or testing strategies—consult those tags if you need guidance on AI tool implementation or test architecture specifically, rather than how code review responsibilities shift in an AI-first development model.",
+  "source-url": "https://www.thoughtworks.com/insights/blog/agile-engineering-practices/where-does-the-rigor-go",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "code-quality",
+    "engineering-management",
+    "decision-making"
+  ]
+}

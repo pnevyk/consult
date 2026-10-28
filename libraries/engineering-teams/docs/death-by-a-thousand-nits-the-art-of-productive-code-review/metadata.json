@@ -1,0 +1,12 @@
+{
+  "title": "Death by a thousand nits: the art of productive code review",
+  "summary": "Techniques for giving constructive code review comments (pair reviewing, framing feedback as questions, accentuating positives) and receiving criticism with grace, emphasizing that collaboration and people skills are more valuable than technical expertise.",
+  "when-to-read": "You need guidance on how to conduct code reviews that build trust rather than create friction, or on how to respond professionally when receiving critical feedback. If you're looking for specific automated code quality tools or testing strategies, consult the code-quality or testing tags instead.",
+  "source-url": "https://bitfieldconsulting.com/posts/code-review",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "code-quality",
+    "engineering-management",
+    "decision-making"
+  ]
+}

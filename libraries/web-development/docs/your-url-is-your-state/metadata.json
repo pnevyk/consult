@@ -1,0 +1,12 @@
+{
+  "title": "Your URL Is Your State",
+  "summary": "URLs as first-class state containers in web applications, covering URL anatomy, query parameters, fragment identifiers, and best practices for encoding filters, configuration, and user intent into URLs rather than relying solely on client-side state management.",
+  "when-to-read": "Read this article when designing how your application should preserve and share user context across navigation, refreshes, and sharing scenarios. If you're wondering whether to store state in a global store versus the URL, or trying to decide what information should be part of a shareable link, consult this instead of articles about generic state management libraries like Redux or Zustand.",
+  "source-url": "https://alfy.blog/2025/10/31/your-url-is-your-state.html",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "software-architecture",
+    "code-quality",
+    "problem-solving"
+  ]
+}

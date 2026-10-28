@@ -1,0 +1,13 @@
+{
+  "title": "Code Review Guidelines for Humans",
+  "summary": "Practical guidelines for constructive code reviews using feedback techniques like I-messages, the OIR-Rule (Observation-Impact-Request), and advice to talk about code rather than coder; emphasizes psychological aspects like humility, distinguishing behavior from traits, and avoiding over-criticism.",
+  "when-to-read": "Read this when you need to establish or improve code review practices that are both effective and respectful of team dynamics. If you're looking for technical code quality metrics or automated testing strategies instead, consult the code-quality or testing tags.",
+  "source-url": "https://phauer.com/2018/code-review-guidelines/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "code-quality",
+    "engineering-management",
+    "decision-making",
+    "problem-solving"
+  ]
+}

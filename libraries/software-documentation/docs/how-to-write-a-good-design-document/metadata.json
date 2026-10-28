@@ -1,0 +1,13 @@
+{
+  "title": "How to write a good design document",
+  "summary": "Practical guidance on writing effective design documents through organization (avoiding \"spaghetti docs\"), editing for clarity and brevity, and concrete techniques like one-idea-per-paragraph structure and appendices for detailed calculations.",
+  "when-to-read": "Read this when you need to write a design document to present a technical decision or architecture, or when you want to improve the clarity and persuasiveness of technical writing. If you're looking for how to structure code or comments within implementation itself, consult code-quality articles instead.",
+  "source-url": "https://grantslatton.com/how-to-design-document",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "technical-writing",
+    "decision-making",
+    "documentation",
+    "software-architecture"
+  ]
+}

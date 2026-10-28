@@ -1,0 +1,10 @@
+{
+  "title": "Reference Guides: Technical Description and Information-Oriented Documentation",
+  "summary": "Diataxis reference-guide principles: neutral, austere description of a product's structure (APIs, functions), mirroring the codebase, illustrated with examples rather than explained.",
+  "when-to-read": "Read when producing or judging an authoritative technical description of a system's structure, API, or behavior. Do not read for task-oriented instructions on getting something done (see how-to-guides), or for material meant to build conceptual understanding of why the system works the way it does (see explanation).",
+  "source-url": "https://diataxis.fr/reference/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "documentation"
+  ]
+}

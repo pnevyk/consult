@@ -1,0 +1,13 @@
+{
+  "title": "The Case Against Conversational Interfaces",
+  "summary": "Analysis of data transfer mechanisms (speed and lossiness) to argue that natural language is inferior to visual/keyboard interfaces for most computing tasks, and that AI should function as a complementary OS-level command layer rather than a replacement for existing workflows.",
+  "when-to-read": "Read this when evaluating whether conversational or voice interfaces should replace traditional UI paradigms, or when designing AI-assisted tools. If you're interested in why keyboard shortcuts and visual interfaces dominate productivity work despite new AI capabilities, consult this article rather than articles about AI capabilities (ai-engineering tag).",
+  "source-url": "https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "decision-making",
+    "software-architecture",
+    "problem-solving",
+    "user-interfaces"
+  ]
+}

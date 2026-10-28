@@ -1,0 +1,13 @@
+{
+  "title": "Compound Engineering: Building Systems That Get Easier Over Time",
+  "summary": "A workflow philosophy and plugin system for AI-assisted development that reverses entropy through a four-step loop (Plan → Work → Review → Compound) and emphasizes extracting taste into the system, treating system improvements as 50% of engineering work, and letting go of outdated beliefs about manual coding.",
+  "when-to-read": "Read this when you're looking to scale individual engineering capacity through AI assistance, or when you want to invert the traditional pattern where codebases become harder to modify over time. This article focuses on workflow and process philosophy; if you're seeking specific code review practices or testing strategies, consult the testing or code-quality tags instead.",
+  "source-url": "https://every.to/guides/compound-engineering",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "software-architecture",
+    "engineering-management",
+    "ai-engineering",
+    "decision-making"
+  ]
+}

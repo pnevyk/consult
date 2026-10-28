@@ -1,0 +1,12 @@
+{
+  "title": "How to Kill the Code Review",
+  "summary": "Proposes replacing traditional code review with spec-driven development and layered verification: comparing multiple agent outputs, deterministic guardrails, behavior-driven development acceptance criteria, granular permission systems, and adversarial verification.",
+  "when-to-read": "Read this when considering how to adapt code review practices, approval gates, or quality assurance processes in teams using AI code generation at scale. If you're looking for how to optimize review speed and reviewer workload within traditional human-centric workflows, see documentation or testing articles instead.",
+  "source-url": "https://www.latent.space/p/reviews-dead",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "software-architecture",
+    "decision-making"
+  ]
+}

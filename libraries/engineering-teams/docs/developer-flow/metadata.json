@@ -1,0 +1,13 @@
+{
+  "title": "Developer Flow",
+  "summary": "Examines flow states in software development using Csíkszentmihályi's flow theory, identifies three major flow blockers (insufficient cognitive challenge, situational barriers, internal factors), and provides actionable strategies for engineering leaders to design work, environments, and tooling that restore developer focus and productivity.",
+  "when-to-read": "Read this when seeking to understand why your engineering team seems unproductive despite good metrics, or when designing interventions to improve developer satisfaction and code quality. If you're specifically looking for meeting management or interrupt-handling tactics alone, consult articles tagged with engineering-management for broader context.",
+  "source-url": "https://leadership.garden/developer-flow/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "engineering-management",
+    "problem-solving",
+    "productivity",
+    "decision-making"
+  ]
+}

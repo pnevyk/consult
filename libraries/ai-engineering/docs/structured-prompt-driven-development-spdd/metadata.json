@@ -1,0 +1,13 @@
+{
+  "title": "Structured-Prompt-Driven Development (SPDD)",
+  "summary": "SPDD is an engineering method that treats prompts as first-class, versioned artifacts governed through a seven-part REASONS Canvas (Requirements, Entities, Approach, Structure, Operations, Norms, Safeguards) and a closed-loop workflow where prompts and code stay synchronized, enabling teams to make AI-generated changes governable, reviewable, and reusable through three core skills: alignment, abstraction-first thinking, and iterative review.",
+  "when-to-read": "Read this when you need to scale LLM-assisted development beyond individual developers to a team-level capability that maintains quality and governance. This differs from general AI-in-development practices—consult the ai-engineering tag if you're looking for broader patterns on integrating AI tools into existing workflows.",
+  "source-url": "https://martinfowler.com/articles/structured-prompt-driven/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "software-architecture",
+    "decision-making",
+    "version-control"
+  ]
+}

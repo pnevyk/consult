@@ -1,0 +1,13 @@
+{
+  "title": "Why Over-Engineering Happens",
+  "summary": "Explores premature optimization, resume-driven development, and misaligned incentives as root causes of over-engineering; contrasts over-complexity with proven patterns like starting with modular monoliths and the Rule of 3 for abstractions.",
+  "when-to-read": "Read this when you're designing a new system architecture or evaluating whether to adopt distributed patterns like microservices, Kubernetes, or event buses. If you're specifically trying to debug an existing production system or optimize performance under measured load, consult observability or performance tuning content instead.",
+  "source-url": "https://yusufaytas.com/why-over-engineering-happens",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "problem-solving",
+    "engineering-management"
+  ]
+}

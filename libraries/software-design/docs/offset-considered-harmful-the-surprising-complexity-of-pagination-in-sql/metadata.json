@@ -1,0 +1,12 @@
+{
+  "title": "Offset Considered Harmful: The Surprising Complexity of Pagination in SQL",
+  "summary": "Explores why SQL OFFSET-based pagination causes duplicate results and poor performance, recommending predicate-based pagination with WHERE conditions and tiebreaker columns instead.",
+  "when-to-read": "Read this article when implementing pagination in database queries or reviewing pagination logic that handles large result sets. If you're looking for general query optimization or performance tuning beyond pagination, consult performance-focused articles instead.",
+  "source-url": "https://cedardb.com/blog/pagination/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "performance",
+    "decision-making",
+    "problem-solving"
+  ]
+}

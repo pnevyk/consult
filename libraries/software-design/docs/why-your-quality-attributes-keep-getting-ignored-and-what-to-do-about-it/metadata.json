@@ -1,0 +1,13 @@
+{
+  "title": "Why Your Quality Attributes Keep Getting Ignored (and What to Do About It)",
+  "summary": "Explores why quality attributes (performance, security, resilience, scalability, maintainability) are systematically deprioritized despite their long-term importance, and proposes solutions including quality attribute scenarios, the ATAM quality attribute tree, architectural tactics decomposition, and trade-off analysis tools like radar charts and matrices.",
+  "when-to-read": "Read this when you're struggling to get stakeholders to invest in non-functional system requirements or when architectural work keeps getting deferred for feature delivery. If you need guidance on the mechanics of specific quality attributes themselves (e.g., how to implement resilience patterns), consult software-architecture resources or the architectural-tactics tag instead.",
+  "source-url": "https://continuousarchitecture.com/2025/12/11/why-your-quality-attributes-are-ignored/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "technical-writing",
+    "engineering-management"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Code Review Antipatterns",
+  "summary": "Eight named code review antipatterns including \"Death of a Thousand Round Trips,\" \"The Ransom Note,\" \"The Double Team,\" and others that exemplify how reviewer authority can be abused to obstruct patches; distinguishes between peer review (where these are genuinely problematic) and gatekeeping review (where some authority use is legitimate).",
+  "when-to-read": "Read this when designing code review processes, training reviewers, or troubleshooting why patches are stuck in endless review cycles. If you're looking for positive guidance on how to conduct effective code reviews, consult documentation on code review best practices instead.",
+  "source-url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "code-quality",
+    "engineering-management",
+    "decision-making"
+  ]
+}

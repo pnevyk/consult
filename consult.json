@@ -1,0 +1,118 @@
+{
+  "libraries": [
+    {
+      "name": "software-design",
+      "root": "libraries/software-design",
+      "tags": [
+        "code-quality",
+        "decision-making",
+        "documentation",
+        "engineering-management",
+        "performance",
+        "problem-solving",
+        "reliability",
+        "software-architecture",
+        "technical-writing",
+        "testing"
+      ]
+    },
+    {
+      "name": "software-craft",
+      "root": "libraries/software-craft",
+      "tags": [
+        "code-quality",
+        "decision-making",
+        "documentation",
+        "engineering-management",
+        "observability",
+        "problem-solving",
+        "reliability",
+        "software-architecture",
+        "testing",
+        "version-control"
+      ]
+    },
+    {
+      "name": "web-development",
+      "root": "libraries/web-development",
+      "tags": [
+        "code-quality",
+        "decision-making",
+        "frontend",
+        "observability",
+        "performance",
+        "problem-solving",
+        "reliability",
+        "software-architecture",
+        "technical-writing"
+      ]
+    },
+    {
+      "name": "software-documentation",
+      "root": "libraries/software-documentation",
+      "tags": [
+        "decision-making",
+        "documentation",
+        "engineering-management",
+        "problem-solving",
+        "software-architecture",
+        "technical-writing"
+      ]
+    },
+    {
+      "name": "ai-engineering",
+      "root": "libraries/ai-engineering",
+      "tags": [
+        "ai-engineering",
+        "code-quality",
+        "decision-making",
+        "documentation",
+        "engineering-management",
+        "observability",
+        "problem-solving",
+        "reliability",
+        "software-architecture",
+        "version-control"
+      ]
+    },
+    {
+      "name": "ai-essays",
+      "root": "libraries/ai-essays",
+      "tags": [
+        "ai-engineering",
+        "code-quality",
+        "decision-making",
+        "open-source",
+        "problem-solving",
+        "software-architecture",
+        "user-interfaces"
+      ]
+    },
+    {
+      "name": "engineering-teams",
+      "root": "libraries/engineering-teams",
+      "tags": [
+        "career-development",
+        "code-quality",
+        "communication-efficiency",
+        "decision-making",
+        "engineering-management",
+        "problem-solving",
+        "productivity",
+        "technical-writing"
+      ]
+    },
+    {
+      "name": "thinking",
+      "root": "libraries/thinking",
+      "tags": [
+        "ai-engineering",
+        "decision-making",
+        "engineering-management",
+        "performance",
+        "problem-solving",
+        "technical-writing"
+      ]
+    }
+  ]
+}

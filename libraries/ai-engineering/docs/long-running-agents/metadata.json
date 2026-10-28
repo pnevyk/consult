@@ -1,0 +1,13 @@
+{
+  "title": "Long-running Agents",
+  "summary": "Examines the engineering patterns for AI agents that persist across multiple sessions and sandboxes, including the Ralph loop, Anthropic's brain/hands/session architecture, Cursor's planner/worker/judge design, and Google's Agent Platform—all addressing finite context windows, persistent state management, and self-verification challenges.",
+  "when-to-read": "Read this when designing or deploying AI agents that need to maintain progress across hours, days, or weeks rather than completing work in a single context window. If you're specifically focused on prompt engineering or individual agent reasoning within a single session, consult documentation on agentic reasoning patterns instead.",
+  "source-url": "https://addyosmani.com/blog/long-running-agents/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "software-architecture",
+    "reliability",
+    "observability"
+  ]
+}

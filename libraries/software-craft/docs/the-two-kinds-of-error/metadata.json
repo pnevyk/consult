@@ -1,0 +1,13 @@
+{
+  "title": "The two kinds of error",
+  "summary": "Distinguishes between expected errors (user input validation, network failures, permissions) that are normal and recoverable versus unexpected errors (assertion failures, logic errors, null pointer exceptions) that indicate bugs and should crash; discusses how to handle each category appropriately with different logging levels and return patterns.",
+  "when-to-read": "Read this when you're designing error handling strategies or deciding which errors to treat as recoverable versus fatal in your application. Don't confuse this with articles about specific error types or exception handling syntax—this is about the conceptual framework for categorizing errors, not implementation details in particular languages.",
+  "source-url": "https://evanhahn.com/the-two-kinds-of-error/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "code-quality",
+    "reliability",
+    "decision-making",
+    "problem-solving"
+  ]
+}

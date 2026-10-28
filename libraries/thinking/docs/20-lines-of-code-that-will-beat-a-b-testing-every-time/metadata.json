@@ -1,0 +1,12 @@
+{
+  "title": "20 lines of code that will beat A/B testing every time",
+  "summary": "The epsilon-greedy multi-armed bandit algorithm provides a superior alternative to A/B testing by automatically exploring different options 10% of the time while exploiting the best-performing choice 90% of the time, requiring only simple code changes to implement continuous optimization.",
+  "when-to-read": "Read this article when you need to optimize between multiple choices (button colors, copy, designs) and want a method that continuously adapts without manual intervention. If you're specifically designing statistical experiments to measure causal effects with rigorous controls, consult A/B testing methodologies instead, as this article's epsilon-greedy approach trades some statistical purity for practical optimization.",
+  "source-url": "https://stevehanov.ca/blog/20-lines-of-code-that-will-beat-ab-testing-every-time",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "decision-making",
+    "performance",
+    "problem-solving"
+  ]
+}

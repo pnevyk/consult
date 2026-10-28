@@ -1,0 +1,10 @@
+{
+  "title": "How-to Guides: Writing Goal-Oriented Practical Instructions",
+  "summary": "Diataxis how-to-guide principles: goal-oriented, user-perspective task instructions distinct from tutorials, focused on real-world problems rather than tool mechanics.",
+  "when-to-read": "Read when writing or reviewing task-oriented instructions for users who already have basic competence and want to accomplish something specific. Do not read for teaching a skill to a beginner through guided practice (see tutorials), or for authoritative product description (see reference-guides).",
+  "source-url": "https://diataxis.fr/how-to-guides/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "documentation"
+  ]
+}

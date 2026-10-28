@@ -1,0 +1,10 @@
+{
+  "title": "Explanation: Understanding-Oriented Documentation",
+  "summary": "Diataxis explanation principles: understanding-oriented material that provides context, history, and connections rather than instructing on tasks.",
+  "when-to-read": "Read when writing material meant to deepen conceptual understanding of why a system or decision is the way it is, away from immediate task execution. Do not read for step-by-step task instructions (see how-to-guides) or authoritative structural description (see reference-guides).",
+  "source-url": "https://diataxis.fr/explanation/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "documentation"
+  ]
+}

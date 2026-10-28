@@ -1,0 +1,12 @@
+{
+  "title": "Vanilla CSS is all you need",
+  "summary": "Analysis of 37signals' approach to building production web applications with vanilla CSS, covering modern patterns like OKLCH color systems, custom properties, container queries, `:has()` selectors, and CSS Layers—all without build tools, preprocessors, or frameworks like Tailwind.",
+  "when-to-read": "Read this when deciding whether to adopt CSS frameworks or build tools for your project, or when evaluating your team's CSS architecture approach. If you're specifically looking for comparative tool recommendations (Tailwind vs. other frameworks), see the code-quality tag for broader architectural tradeoffs.",
+  "source-url": "https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "code-quality",
+    "frontend",
+    "decision-making"
+  ]
+}

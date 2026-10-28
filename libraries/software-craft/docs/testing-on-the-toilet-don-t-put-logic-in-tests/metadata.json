@@ -1,0 +1,11 @@
+{
+  "title": "Testing on the Toilet: Don't Put Logic in Tests",
+  "summary": "Argues that unit tests should prioritize clarity and directness by stating inputs and outputs explicitly rather than computing them through operators and conditionals; advises moving complex logic into separately-tested utilities rather than embedding it in test bodies.",
+  "when-to-read": "Read this when writing unit tests and noticing yourself extracting variables, building strings, or using conditionals to avoid duplication in test code. If you're designing the overall testing architecture or deciding how to structure an entire test suite across environments, see instead the broader testing and code-quality tags.",
+  "source-url": "https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "testing",
+    "code-quality"
+  ]
+}

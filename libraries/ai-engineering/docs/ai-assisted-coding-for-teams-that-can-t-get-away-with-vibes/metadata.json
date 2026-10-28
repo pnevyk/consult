@@ -1,0 +1,13 @@
+{
+  "title": "AI-assisted coding for teams that can't get away with vibes",
+  "summary": "Practical playbook for production AI-assisted coding emphasizing that AI is a multiplier requiring strong engineering fundamentals, good test coverage, documentation, and skillful prompt engineering; covers specific tactics like metaprompting, agentic tools, RULES.md files, and breaking work into smaller tasks.",
+  "when-to-read": "Read this when adopting AI coding tools in a team that prioritizes code quality and wants to avoid technical debt while gaining velocity gains. Do not confuse this with general guidance on when to use AI tools—consult articles tagged with ai-engineering for broader strategy on AI adoption timelines and organizational readiness.",
+  "source-url": "https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "code-quality",
+    "engineering-management",
+    "decision-making"
+  ]
+}

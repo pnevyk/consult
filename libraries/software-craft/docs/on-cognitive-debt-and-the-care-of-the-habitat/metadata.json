@@ -1,0 +1,13 @@
+{
+  "title": "On Cognitive Debt and the Care of the Habitat",
+  "summary": "Introduces cognitive debt as the gap between what a system is and what teams collectively understand it to be, distinct from technical debt; proposes habitat thinking and practices like externalizing intent, optimizing for re-entry, and introducing environmental sensors (re-explanation friction, bus-factor confidence, time-to-comprehension metrics) to detect and prevent understanding erosion before it causes systemic collapse.",
+  "when-to-read": "Read this when you're concerned about hidden knowledge silos, team confusion during incidents, or velocity that masks shallow understanding—particularly in teams adopting AI-assisted coding. If you're looking for concrete metrics on code quality or testing approaches, consult the code-quality or testing tags instead; this article focuses on the human comprehension side of maintainability.",
+  "source-url": "https://www.softwareenchiridion.com/p/on-cognitive-debt-and-the-care-of",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "software-architecture",
+    "engineering-management",
+    "observability",
+    "decision-making"
+  ]
+}

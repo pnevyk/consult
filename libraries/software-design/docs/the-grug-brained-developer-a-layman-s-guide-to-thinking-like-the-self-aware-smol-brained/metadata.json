@@ -1,0 +1,12 @@
+{
+  "title": "The Grug Brained Developer: A Layman's Guide to Thinking Like the Self-Aware Smol Brained",
+  "summary": "Covers fighting complexity, saying no to features, code factoring, testing strategy, refactoring, microservices pitfalls, and type-system trade-offs, in the 'grug' voice.",
+  "when-to-read": "Read when weighing whether to add complexity, adopt a new pattern, or push back on scope, and want a grounded, experience-based counterweight to prevailing trends. Do not read for precise technical specifications or step-by-step procedures — it's a pragmatism piece, not a reference or how-to guide.",
+  "source-url": "https://grugbrain.dev/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "code-quality",
+    "software-architecture",
+    "decision-making"
+  ]
+}

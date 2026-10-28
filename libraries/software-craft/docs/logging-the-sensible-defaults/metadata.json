@@ -1,0 +1,12 @@
+{
+  "title": "Logging, the sensible defaults",
+  "summary": "Essential practices for production logging in cloud-native applications: structured JSON logging with context fields (request-id, transaction-id), actionable events only, central aggregation systems, and avoiding DEBUG logs and sensitive data in production. Distinguishes between logging and instrumentation per the Unix Philosophy's Rule of Silence.",
+  "when-to-read": "Read this when setting up logging standards for a team or reviewing logging practices in a codebase that struggles with unclear or excessive logs. If you're trying to distinguish between logging for debugging versus instrumentation/metrics for performance monitoring, consult observability tag for more on instrumentation approaches.",
+  "source-url": "https://gerlacdt.github.io/blog/posts/logging/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "observability",
+    "code-quality",
+    "reliability"
+  ]
+}

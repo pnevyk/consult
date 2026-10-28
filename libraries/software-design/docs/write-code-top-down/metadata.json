@@ -1,0 +1,12 @@
+{
+  "title": "Write code top-down",
+  "summary": "Argues that top-down design—starting with a high-level vision and implementing stubs before working downward into components—produces simpler, more successful systems than bottom-up design, which begins with component details and risks over-generalization and unnecessary complexity.",
+  "when-to-read": "Read this when deciding how to approach the architecture and implementation strategy for a new system or feature. If you're specifically debating testing strategies or whether to write unit tests first, consult testing articles instead.",
+  "source-url": "https://www.teamten.com/lawrence/programming/write-code-top-down.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "problem-solving",
+    "code-quality"
+  ]
+}

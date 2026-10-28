@@ -1,0 +1,13 @@
+{
+  "title": "Excerpts from \"A Philosophy of Software Design\"",
+  "summary": "John Ousterhout's core design principles: minimizing complexity through deep modules with simple interfaces, information hiding, strategic programming over tactical shortcuts, and designing it twice before implementation; managing complexity through error definition, documentation as design tool, and avoiding intuition-driven optimization.",
+  "when-to-read": "When you're facing questions about how to structure modules, reduce system complexity, or decide between competing design approaches for a major component. If you're looking for guidance on code organization at a high level, see software-architecture; if you need testing strategy specifically, consult the testing tag.",
+  "source-url": "https://medium.com/@gordongibson_37627/excerpts-from-a-philosophy-of-software-design-761f03629838",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "code-quality",
+    "decision-making",
+    "documentation"
+  ]
+}

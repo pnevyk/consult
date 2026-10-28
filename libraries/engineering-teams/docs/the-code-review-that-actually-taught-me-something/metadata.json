@@ -1,0 +1,12 @@
+{
+  "title": "The Code Review That Actually Taught Me Something",
+  "summary": "Explores how senior engineers conduct code reviews as teaching opportunities rather than gatekeeping exercises, focusing on mentoring approaches that develop junior engineer capabilities.",
+  "when-to-read": "Read this when you want to improve your code review practices or understand how to mentor others more effectively through the review process. If you're looking for technical code review practices like specific linting rules or architectural patterns, consult code-quality and software-architecture articles instead.",
+  "source-url": "https://read.bytesizeddesign.com/p/the-code-review-that-actually-taught",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "engineering-management",
+    "code-quality",
+    "decision-making"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Everything I know about good API design",
+  "summary": "Practical principles for designing maintainable APIs including \"WE DO NOT BREAK USERSPACE,\" idempotency keys, cursor-based pagination, rate limiting, and the trade-off between simplicity and flexibility.",
+  "when-to-read": "When designing a new API or evaluating API design decisions, especially around versioning, backward compatibility, and scalability. If you're looking for guidance on REST vs GraphQL architectural choices, see the documentation tag instead for API style comparisons.",
+  "source-url": "https://www.seangoedecke.com/good-api-design/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "problem-solving"
+  ]
+}

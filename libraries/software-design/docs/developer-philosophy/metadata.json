@@ -1,0 +1,12 @@
+{
+  "title": "Developer Philosophy",
+  "summary": "Covers debt management to avoid ground-up rewrites, the 90/90 rule for time budgeting, testable code with minimal side effects, and modular architecture as a middle ground between microservices and monoliths.",
+  "when-to-read": "Read when deciding how to manage technical debt, budget time on a project, or choose an architecture style for a new system or feature. Do not read for a single named architecture pattern's mechanics (see building-modern-architectures) — this is broad engineering philosophy, not one specific pattern.",
+  "source-url": "https://qntm.org/devphilo",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "code-quality",
+    "software-architecture",
+    "engineering-management"
+  ]
+}

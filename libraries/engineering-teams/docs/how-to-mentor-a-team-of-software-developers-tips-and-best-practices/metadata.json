@@ -1,0 +1,13 @@
+{
+  "title": "How to Mentor a Team of Software Developers: Tips and Best Practices",
+  "summary": "Comprehensive guide to effective mentorship in software development, covering one-on-one check-ins, code reviews as learning opportunities, goal-setting frameworks, soft vs. technical skill development, and creating psychological safety for junior developers.",
+  "when-to-read": "Read this when you're stepping into a mentor or tech lead role and need structured approaches to develop junior engineers and foster team growth. If you're looking specifically for how to deliver effective feedback in code reviews, consult the code-quality tag instead, as this covers reviews only as one component of broader mentorship.",
+  "source-url": "https://mentorcruise.com/blog/how-to-mentor-a-team-of-software-developers-tips-and-best-practices/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "engineering-management",
+    "problem-solving",
+    "code-quality",
+    "decision-making"
+  ]
+}

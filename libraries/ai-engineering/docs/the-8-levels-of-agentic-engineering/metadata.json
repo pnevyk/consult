@@ -1,0 +1,13 @@
+{
+  "title": "The 8 Levels of Agentic Engineering",
+  "summary": "A progression framework spanning from basic tab completion through autonomous background agent coordination, covering context engineering, compounding engineering, MCP/skills integration, harness engineering with automated feedback loops, and multi-model orchestration patterns for AI-assisted software development.",
+  "when-to-read": "Read this when you're evaluating how to structure your team's AI-assisted development workflow and want to understand the maturity levels that unlock different capabilities and productivity gains. Distinguish this from generic AI tool tutorials by focusing on systematic progression and the architectural patterns that enable each level; consult decision-making or problem-solving articles if you're instead facing a specific tactical choice about which tool to adopt for an immediate task.",
+  "source-url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "software-architecture",
+    "engineering-management",
+    "decision-making"
+  ]
+}

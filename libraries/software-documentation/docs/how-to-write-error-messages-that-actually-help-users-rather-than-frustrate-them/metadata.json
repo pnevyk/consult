@@ -1,0 +1,10 @@
+{
+  "title": "How to write error messages that actually help users rather than frustrate them",
+  "summary": "Five principles for user-facing error copy: identifying error types, plain conversational language, avoiding whimsy, active voice, and consistent next-step guidance.",
+  "when-to-read": "Read when writing or reviewing user-facing error messages, or establishing UX-writing/design-system conventions for them. Do not read for internal log message or exception-string conventions aimed at engineers (see logging best practices) — this is about end-user-facing copy.",
+  "source-url": "https://piccalil.li/blog/how-to-write-error-messages-that-actually-help-users-rather-than-frustrate-them/",
+  "accessed-at": "2026-08-06",
+  "tags": [
+    "technical-writing"
+  ]
+}

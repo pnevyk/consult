@@ -1,0 +1,11 @@
+{
+  "title": "The 13 Software Engineering Laws",
+  "summary": "Covers 13 named laws (Hyrum's Law, Conway's Law, Brooks' Law, etc.) with implications for estimation, team structure, and feature scope.",
+  "when-to-read": "Read when facing decisions about project estimation, team structure, scope creep, or performance metrics and want a named principle to reason from. Do not read for tactical implementation advice on a specific practice — these are organizational/behavioral laws, not step-by-step techniques.",
+  "source-url": "https://www.manager.dev/newsletter/the-13-software-engineering-laws",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "engineering-management",
+    "decision-making"
+  ]
+}

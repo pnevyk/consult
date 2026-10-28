@@ -1,0 +1,12 @@
+{
+  "title": "The Nine Node Pillars: Enterprise Node.js Best Practices",
+  "summary": "Nine pillars for enterprise Node.js: event-loop management, LTS versioning, dependency management, and monitoring practices from Cloudflare, Azure, and Red Hat engineers.",
+  "when-to-read": "Read when architecting, reviewing, or hardening a Node.js application for production, especially around event-loop behavior, dependency hygiene, or monitoring. Do not read for general JavaScript language or frontend guidance — this is backend/runtime operational practice, not a language tutorial.",
+  "source-url": "https://www.platformatichq.com/node-principles",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "performance",
+    "reliability",
+    "observability"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Minto Pyramid",
+  "summary": "The Minto Pyramid is a top-down communication framework that leads with conclusions (BLUF—\"bottom line up front\"), followed by key supporting arguments, then detailed information; particularly effective for written communication and busy audiences.",
+  "when-to-read": "Read this when you need to communicate technical decisions, findings, or recommendations to colleagues or stakeholders who have limited time or attention, and want to maximize the chance your message is understood and acted upon. If you're seeking feedback on how to deliver criticism constructively, consult the Situation-Behavior-Impact framework instead.",
+  "source-url": "https://untools.co/minto-pyramid/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "technical-writing",
+    "decision-making",
+    "engineering-management"
+  ]
+}

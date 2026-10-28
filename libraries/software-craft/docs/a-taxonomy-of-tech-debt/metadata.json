@@ -1,0 +1,13 @@
+{
+  "title": "A Taxonomy of Tech Debt",
+  "summary": "Introduces a three-axis measurement model for tech debt (impact, fix cost, contagion) and categorizes four types: Local Debt, MacGyver Debt, Foundational Debt, and Data Debt, with case studies from League of Legends development including Jarvan's Cataclysm, std::string vs AString, and BlockBuilder Lua scripting.",
+  "when-to-read": "Read this when you need to categorize, prioritize, or discuss technical debt with your team using a common vocabulary and measurement framework. If you're looking for strategies to eliminate debt immediately, consult articles on refactoring techniques or code modernization patterns instead.",
+  "source-url": "https://www.riotgames.com/en/news/taxonomy-tech-debt",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "code-quality",
+    "engineering-management",
+    "decision-making",
+    "software-architecture"
+  ]
+}

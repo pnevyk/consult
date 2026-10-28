@@ -1,0 +1,12 @@
+{
+  "title": "A meta-analysis of three different notions of software complexity",
+  "summary": "Comparative analysis of complexity definitions from Hickey (objective simplicity through lack of interleaving), Ousterhout (reducing dependencies and obscurity), and Tellman (measuring future explanations relative to audience expectations), examining their different assumptions about subjectivity, coupling, and practical decision-making.",
+  "when-to-read": "Read this when you need to choose between different frameworks for evaluating whether code or a system design is actually complex, or when you're unsure whether complexity is objective or depends on the observer. If you're looking for a practical approach to measuring cognitive load or onboarding difficulty specifically, see documentation or observability tags instead, as this article treats those as symptoms rather than the primary lens.",
+  "source-url": "https://typesanitizer.com/blog/complexity-definitions.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "problem-solving"
+  ]
+}

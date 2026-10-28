@@ -1,0 +1,13 @@
+{
+  "title": "Modern Node.js Patterns for 2025",
+  "summary": "Comprehensive guide to contemporary Node.js development covering ES Modules with node: prefix, built-in Fetch API and AbortController, native test runner, Worker Threads, and integrated tooling features like --watch and --env-file that reduce external dependencies.",
+  "when-to-read": "Read this article when modernizing a Node.js codebase or learning current best practices for JavaScript server-side development in 2025. If you need to evaluate specific dependencies (like HTTP clients, test frameworks, or environment loaders), consult articles on dependency management or code-quality instead.",
+  "source-url": "https://kashw1n.com/blog/nodejs-2025/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "software-architecture",
+    "code-quality",
+    "performance",
+    "observability"
+  ]
+}

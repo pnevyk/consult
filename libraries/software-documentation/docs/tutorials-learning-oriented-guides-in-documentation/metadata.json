@@ -1,0 +1,10 @@
+{
+  "title": "Tutorials: Learning-Oriented Guides in Documentation",
+  "summary": "Diataxis tutorial principles: learning through guided practical activity, delivering visible results early, concrete focus, minimal explanation, and reliable execution.",
+  "when-to-read": "Read when the task is to teach a skill through guided, hands-on practice rather than describe it. Do not read for instructions aimed at someone who already has the basic competence and just wants to accomplish a specific task (see how-to-guides), or for authoritative description of a system's parts (see reference-guides).",
+  "source-url": "https://diataxis.fr/tutorials/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "documentation"
+  ]
+}

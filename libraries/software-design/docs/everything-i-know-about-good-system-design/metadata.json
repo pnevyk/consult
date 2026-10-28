@@ -1,0 +1,13 @@
+{
+  "title": "Everything I know about good system design",
+  "summary": "Comprehensive guide covering system design principles including state management, database optimization (schemas, indexes, bottlenecks), background jobs and queues, caching strategies, event hubs, and operational concerns like hot paths, logging, and failure modes (killswitches, retries, idempotency keys).",
+  "when-to-read": "Read this when designing distributed systems with multiple services or when you need to understand how components like databases, caches, queues, and event hubs fit together in practice. If you're looking for guidance on specific architectural patterns like CQRS or distributed consensus, consult architecture-specific resources instead—this article emphasizes simplicity and avoiding premature complexity.",
+  "source-url": "https://www.seangoedecke.com/good-system-design/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "reliability",
+    "decision-making",
+    "performance"
+  ]
+}

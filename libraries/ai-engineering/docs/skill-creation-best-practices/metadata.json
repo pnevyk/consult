@@ -1,0 +1,11 @@
+{
+  "title": "Best practices for skill creators",
+  "summary": "Covers grounding skills in hands-on expertise, progressive disclosure via references/, gotchas sections, output templates, checklists, validation loops, and plan-validate-execute for agent skill authoring.",
+  "when-to-read": "Read when authoring or revising an agent skill: deciding its scope, what to cut from SKILL.md, or which structural pattern (gotchas, template, checklist, validation loop) fits. Do not read for general prompt-engineering or model-selection advice unrelated to the skill-file format.",
+  "source-url": "https://agentskills.io/skill-creation/best-practices",
+  "accessed-at": "2026-08-06",
+  "tags": [
+    "ai-engineering",
+    "documentation"
+  ]
+}

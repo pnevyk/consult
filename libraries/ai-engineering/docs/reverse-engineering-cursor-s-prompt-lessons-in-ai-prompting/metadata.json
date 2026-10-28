@@ -1,0 +1,12 @@
+{
+  "title": "Reverse-Engineering Cursor's Prompt: Lessons in AI Prompting",
+  "summary": "Analysis of Cursor's system prompts and tool-calling architecture, revealing techniques like XML tag organization, agent autonomy instructions, dual user prompts for custom instructions vs. live context, and practical constraints for cost optimization.",
+  "when-to-read": "Read this when building or debugging an AI system prompt that needs to be effective at complex, multi-step tasks and tool use. Distinguish this from general AI prompt engineering by focusing on architectural patterns for production AI agents rather than one-off prompt optimization.",
+  "source-url": "https://byteatatime.dev/posts/cursor-prompt-analysis/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "decision-making",
+    "problem-solving"
+  ]
+}

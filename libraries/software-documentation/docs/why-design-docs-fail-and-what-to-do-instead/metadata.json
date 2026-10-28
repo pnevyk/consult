@@ -1,0 +1,12 @@
+{
+  "title": "Why Design Docs Fail (And What To Do Instead)",
+  "summary": "Critiques detailed pre-specification design documents as organizational theater that delays learning; advocates for one-pagers capturing problem statement and one-way-door decisions, followed by spike-first prototyping and code review as the actual design review.",
+  "when-to-read": "When designing a system or planning an engineering project and deciding how much upfront documentation is necessary before starting implementation. If you need structured guidance on writing clear specifications that external parties will integrate against, consult RFCs and the software-architecture tag instead.",
+  "source-url": "https://www.lucasfcosta.com/blog/design-docs",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "decision-making",
+    "software-architecture",
+    "engineering-management"
+  ]
+}

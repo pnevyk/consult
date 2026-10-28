@@ -1,0 +1,13 @@
+{
+  "title": "'Make invalid states unrepresentable' considered harmful",
+  "summary": "Argues that user-facing software should allow some invalid states to remain representable to maintain flexibility for real-world business needs; contrasts with the popular design principle of making invalid states unrepresentable through tight domain model constraints. Discusses state machines, foreign key constraints, and Protocol Buffer required fields as examples where overly rigid constraints cause operational friction.",
+  "when-to-read": "When considering how to enforce domain constraints in your system design—whether through database schemas, type systems, or serialization formats—and weighing the tradeoff between correctness and operational flexibility. If instead you're looking for guidance on how to structure your domain model to accurately represent business logic, see software-architecture and decision-making; this article deliberately argues against making domain models as tight as possible.",
+  "source-url": "https://www.seangoedecke.com/invalid-states/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "code-quality",
+    "problem-solving"
+  ]
+}

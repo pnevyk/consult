@@ -1,0 +1,11 @@
+{
+  "title": "Should the daily stand-up die?",
+  "summary": "Examines the daily stand-up ceremony through perspectives of agile coaches and engineering leaders, exploring how it has degraded into status reporting, the distinction between daily scrum (the updated 2020 framing) and kanban \"walk the board\" approaches, and practical guidance for asynchronous alternatives like GitLab's Slack-based check-ins for distributed teams.",
+  "when-to-read": "Read this when deciding whether your team should keep, modify, or eliminate daily stand-up meetings, or when troubleshooting why stand-ups feel ineffective. If you're looking for how to improve broader meeting culture or facilitate team retrospectives, see the decision-making tag instead; this article is specifically about one ceremony's value proposition.",
+  "source-url": "https://leaddev.com/velocity/should-daily-stand-die",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "engineering-management",
+    "decision-making"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "title": "What Makes Code Hard To Read: Visual Patterns of Complexity",
+  "summary": "Distills Halstead Complexity Metrics and Cognitive Complexity into 8 observable visual patterns that make code hard to read.",
+  "when-to-read": "Read when reviewing code for readability, explaining why a piece of code feels hard to follow, or setting readability standards for a team. Do not read for architectural or design-pattern concerns — this is about line-level visual/structural readability, not system structure.",
+  "source-url": "https://seeinglogic.com/posts/visual-readability-patterns/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "code-quality"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Capitalization of Initialisms",
+  "summary": "Guidelines for capitalizing initialisms and acronyms in camelCase identifiers, recommending initial-cap style (XmlHttpRequest) over all-caps (XMLHTTPRequest) to improve readability, consistency, and automated code transformations.",
+  "when-to-read": "You're designing naming conventions for code or establishing style guidelines for identifiers containing acronyms and initialisms. This article is distinct from general code-quality discussions on naming—consult the broader code-quality tag if you need guidance on naming conventions that aren't specifically about acronym capitalization.",
+  "source-url": "https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "code-quality",
+    "documentation"
+  ]
+}

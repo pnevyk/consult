@@ -1,0 +1,12 @@
+{
+  "title": "You don't need JavaScript for that",
+  "summary": "Applies the \"rule of least power\" principle to web development by demonstrating native HTML and CSS solutions (custom switches, datalist, color pickers, details/summary accordions, dialog modals) that eliminate the need for JavaScript implementations.",
+  "when-to-read": "Read this when evaluating whether a feature genuinely requires JavaScript or can be implemented more efficiently with native HTML/CSS, or when seeking to reduce JavaScript bundle size and improve accessibility. If you're looking for patterns on when and how to use specific frameworks or libraries, consult engineering-management or decision-making articles instead.",
+  "source-url": "https://www.htmhell.dev/adventcalendar/2023/2/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "code-quality",
+    "performance",
+    "technical-writing"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "How to write complex software",
+  "summary": "Describes a top-down layering approach for organizing complex software, where each layer defines the ideal API for the layer below it, emphasizing stub-first implementation and IO-only mocking.",
+  "when-to-read": "Read this when designing the overall architecture and code organization for a large, complex software project (tens to hundreds of thousands of lines), or when deciding whether to start implementation top-down versus bottom-up. If you're instead looking for specific code quality practices, refactoring patterns, or testing strategies within an already-determined architecture, consult the code-quality or testing tags instead.",
+  "source-url": "https://grantslatton.com/how-to-software",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "problem-solving",
+    "decision-making"
+  ]
+}

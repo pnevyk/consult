@@ -1,0 +1,11 @@
+{
+  "title": "Start Here - Diátaxis in Five Minutes",
+  "summary": "Introduces the Diataxis framework's four document types (tutorials, how-to guides, reference, explanation) and a pragmatic workflow for improving documentation incrementally.",
+  "when-to-read": "Read when unsure which of the four documentation types a piece of content should be, or when documentation feels disorganized and needs a structural framework. Do not read for the detailed writing principles of any one type — go to the specific tutorials, how-to-guides, reference-guides, or explanation article instead.",
+  "source-url": "https://diataxis.fr/start-here/",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "documentation",
+    "decision-making"
+  ]
+}

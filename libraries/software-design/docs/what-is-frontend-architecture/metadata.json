@@ -1,0 +1,12 @@
+{
+  "title": "What is Frontend Architecture?",
+  "summary": "Defines software architecture through the lens of high-level decisions driven by business requirements and their tradeoffs, rather than implementation details like directory structure; introduces frameworks like architectural drivers, tradeoffs, and limitations to guide decision-making aligned with business goals and organizational structure.",
+  "when-to-read": "Read this article when you need to understand what constitutes architectural decisions in frontend systems and how to think about architecture beyond tooling and code organization. If you're looking for specific technical implementation patterns or tactical coding decisions (like whether to use Redux or functions vs classes), consult the code-quality or software-architecture tags instead—this article focuses on strategic, business-aligned decision-making rather than tactical choices.",
+  "source-url": "https://ducin.dev/what-is-frontend-architecture",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "engineering-management"
+  ]
+}

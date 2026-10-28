@@ -1,0 +1,12 @@
+{
+  "title": "Write Change-Resilient Code With Domain Objects",
+  "summary": "Using domain objects—code constructs that model a product's fundamental business ideas rather than specific requirements—to write code that survives future changes; includes guidance on identifying domain objects through use-case analysis and avoiding over-generalization.",
+  "when-to-read": "Read this article when you need to design code that can accommodate future changes without constant refactoring, particularly when handling features that will likely expand in scope. If you're looking for broader architectural patterns beyond domain objects, consult articles on software architecture or domain-driven design instead.",
+  "source-url": "https://testing.googleblog.com/2024/09/write-change-resilient-code-with-domain.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "code-quality",
+    "software-architecture",
+    "problem-solving"
+  ]
+}

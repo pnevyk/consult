@@ -1,0 +1,13 @@
+{
+  "title": "Building Effective Agents: Patterns and Best Practices from Anthropic",
+  "summary": "Describes five agentic workflow patterns (prompt chaining, routing, parallelization, orchestrator-workers, evaluator-optimizer) and autonomous agents, distinguishing workflows where LLMs follow predefined code paths from agents that dynamically direct their own processes; emphasizes starting with simple solutions and only increasing complexity when justified by performance gains.",
+  "when-to-read": "When you're building an LLM-based system and need guidance on whether to implement an agent, workflow, or simpler approach—and what specific patterns work best for different tasks. If you're specifically looking for detailed prompting techniques independent of agent architecture, see the technical-writing tag instead; this article focuses on architectural patterns rather than prompt engineering fundamentals.",
+  "source-url": "https://www.anthropic.com/engineering/building-effective-agents",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "software-architecture",
+    "decision-making",
+    "problem-solving"
+  ]
+}

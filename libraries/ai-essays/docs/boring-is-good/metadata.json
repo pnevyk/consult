@@ -1,0 +1,12 @@
+{
+  "title": "Boring is Good",
+  "summary": "Why the AI bubble's maturation will shift LLMs from hyped general-purpose models toward smaller, specialized SLMs (Small Language Models) for focused linguistic tasks; drawing on historical patterns from electrification and computing to show that mature technology flows downhill to become smaller, distributed, and pragmatically applied.",
+  "when-to-read": "Read this article when evaluating whether and how to adopt LLMs or generative AI in your own systems, or when trying to understand why current AI implementations are failing at scale. If you're looking for hands-on guidance on specific AI implementation techniques or tool evaluations, see the ai-engineering tag instead.",
+  "source-url": "https://jenson.org/boring/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "ai-engineering",
+    "decision-making",
+    "problem-solving"
+  ]
+}

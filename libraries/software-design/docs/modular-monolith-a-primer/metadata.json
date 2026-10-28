@@ -1,0 +1,11 @@
+{
+  "title": "Modular Monolith: A Primer",
+  "summary": "Defines Modular Monolith as a single-deployment-unit system designed with modular principles including loose coupling, vertical slices, and well-defined module interfaces; argues modularity is orthogonal to monolithic architecture and refutes the misconception that monoliths cannot be well-designed.",
+  "when-to-read": "Read this article when designing a system architecture and questioning whether a monolithic deployment model can support high-quality, modular design. If instead you are trying to decide between monolithic and microservice architectures based on their trade-offs, consult the decision-making tag or articles comparing architecture options.",
+  "source-url": "https://www.kamilgrzybek.com/blog/posts/modular-monolith-primer",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making"
+  ]
+}

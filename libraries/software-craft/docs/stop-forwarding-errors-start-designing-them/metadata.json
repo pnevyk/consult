@@ -1,0 +1,13 @@
+{
+  "title": "Stop Forwarding Errors, Start Designing Them",
+  "summary": "A critique of error forwarding practices and a call to design errors with explicit intent: using flat, kind-based error types for machine recovery (following Apache OpenDAL's pattern) and context-aware error frames (like the exn library) for human debugging, rather than propagating errors through generic abstractions.",
+  "when-to-read": "When you're designing error types or error handling strategy for a Rust library or application, or when debugging production issues caused by uninformative error messages. This differs from articles about error *recovery* (retries, timeouts, fallbacks) or testing error paths—focus here is on error *design* and *context capture*.",
+  "source-url": "https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "code-quality",
+    "observability",
+    "software-architecture",
+    "reliability"
+  ]
+}

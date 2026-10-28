@@ -1,0 +1,12 @@
+{
+  "title": "Practices of Reliable Software Design",
+  "summary": "Eight practices demonstrated by building an in-memory cache: favoring off-the-shelf solutions, reserving resources early, setting limits, and embedding performance counters.",
+  "when-to-read": "Read when designing a new software component and weighing build-vs-buy, scope, or what observability/testing infrastructure to invest in upfront. Do not read for one specific named architecture pattern like functional-core/imperative-shell (see building-modern-architectures) — this is about general build trade-offs.",
+  "source-url": "https://entropicthoughts.com/practices-of-reliable-software-design",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "reliability",
+    "software-architecture",
+    "performance"
+  ]
+}

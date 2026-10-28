@@ -1,0 +1,11 @@
+{
+  "title": "How to Write Better Documentation",
+  "summary": "Practical techniques for skimmable, unambiguous documentation accessible to readers with varying technical backgrounds.",
+  "when-to-read": "Read when writing or revising any technical documentation and want general clarity/skimmability guidance that applies across document types. Do not read to decide which type of document to write in the first place (see start-here-diataxis) — this is about prose quality, not document-type selection.",
+  "source-url": "https://developers.openai.com/cookbook/articles/what_makes_documentation_good",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "documentation",
+    "technical-writing"
+  ]
+}

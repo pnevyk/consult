@@ -1,0 +1,10 @@
+{
+  "title": "An Engineer's Checklist of Logging Best Practices",
+  "summary": "10-point checklist covering structuring and consolidating log entries, unique identifiers, standardized field names, retention, alerting, and avoiding sensitive data.",
+  "when-to-read": "Read when establishing or auditing a logging strategy, or investigating a production incident where log quality is part of the problem. Do not read for general debugging methodology (see troubleshooting) — this is about log design and hygiene, not investigative technique.",
+  "source-url": "https://www.honeycomb.io/blog/engineers-checklist-logging-best-practices",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "observability"
+  ]
+}

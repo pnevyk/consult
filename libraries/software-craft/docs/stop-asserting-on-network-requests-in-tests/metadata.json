@@ -1,0 +1,11 @@
+{
+  "title": "Stop Asserting on Network Requests in Tests",
+  "summary": "Explains why direct assertions on API request/response payloads are an anti-pattern and advocates for user-driven testing: assert on UI state changes instead, validate request correctness through mock setup logic rather than explicit assertions, and treat network mocking as a test boundary that implicitly ensures correct behavior.",
+  "when-to-read": "When writing tests for UI that depends on network calls and you're tempted to assert on request payloads or response values. If you're looking for general guidance on API mocking setup and structure, consult testing and code-quality resources instead.",
+  "source-url": "https://www.epicweb.dev/do-not-assert-on-requests",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "testing",
+    "code-quality"
+  ]
+}

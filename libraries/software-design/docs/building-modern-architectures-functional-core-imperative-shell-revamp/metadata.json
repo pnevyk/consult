@@ -1,0 +1,11 @@
+{
+  "title": "Building Modern Architectures: Functional Core, Imperative Shell Revamp",
+  "summary": "Explains Functional Core, Imperative Shell as an alternative to layered/hexagonal architecture, separating pure business logic from I/O via unidirectional dependency flow.",
+  "when-to-read": "Read when evaluating architecture patterns for separating business logic from side effects, especially if the team is open to functional-programming influence in an OOP codebase. Do not read for general build-vs-buy or reliability trade-offs (see practices-of-reliable-software-design) — this is about one specific named pattern.",
+  "source-url": "https://medium.com/@allousas/building-modern-architectures-functional-core-imperative-shell-revamp-0bb5ae62b589",
+  "accessed-at": "2026-08-07",
+  "tags": [
+    "software-architecture",
+    "code-quality"
+  ]
+}

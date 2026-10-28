@@ -1,0 +1,12 @@
+{
+  "title": "Beyond React.memo: Smarter Ways to Optimize Performance",
+  "summary": "Composition-based performance optimization patterns for React that avoid memoization pitfalls by moving state down and using children-as-props patterns to prevent unnecessary re-renders.",
+  "when-to-read": "Read this when optimizing React component performance and considering whether to use React.memo, memoization hooks, or refactoring strategies. If you're looking for general React rendering fundamentals or cleanup optimization specifically around memo dependencies, see the code-quality tag instead.",
+  "source-url": "https://cekrem.github.io/posts/beyond-react-memo-smarter-performance-optimization/",
+  "accessed-at": "2026-08-10",
+  "tags": [
+    "performance",
+    "software-architecture",
+    "code-quality"
+  ]
+}

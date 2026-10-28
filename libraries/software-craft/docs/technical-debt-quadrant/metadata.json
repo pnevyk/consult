@@ -1,0 +1,12 @@
+{
+  "title": "Technical Debt Quadrant",
+  "summary": "Martin Fowler's framework distinguishes technical debt along two dimensions—deliberate vs. inadvertent, and prudent vs. reckless—showing that the debt metaphor's value lies in communicating design trade-offs rather than classifying code as inherently \"good\" or \"bad.\"",
+  "when-to-read": "Read this when deciding how to discuss design compromises with team members and stakeholders, or when evaluating whether to refactor existing code. If you're looking for concrete strategies to prevent technical debt accumulation, consult articles on code-quality practices and refactoring techniques instead.",
+  "source-url": "https://martinfowler.com/bliki/TechnicalDebtQuadrant.html",
+  "accessed-at": "2026-08-08",
+  "tags": [
+    "software-architecture",
+    "decision-making",
+    "engineering-management"
+  ]
+}
