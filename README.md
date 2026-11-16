@@ -3,6 +3,12 @@
 An agent skill that answers design and decision questions from curated documents and cites its sources.
 It works with any agent harness that supports skills.
 
+## Motivation
+
+Your taste took years to form, and your bookmarks, notes and references encode it.
+A model has no access to that, only to the mix of views in its training data.
+This skill lets you steer the agent with your own library of curated sources.
+
 ## Quick start
 
 ### Install the skill
