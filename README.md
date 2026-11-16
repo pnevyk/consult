@@ -16,14 +16,20 @@ The skill scripts need Node.js 22+.
 ### Add a library
 
 A library is a curated set of documents on one topic.
-The skill has no documents until you add at least one library:
+The skill has no documents until you add at least one library.
 
-```sh
-node .agents/skills/consult/scripts/add-library.mjs https://github.com/pnevyk/consult software-design
+Ask your agent:
+
+```text
+Install the software-design library from https://github.com/pnevyk/consult
 ```
+
+The skill runs the install for you using its bundled script.
+If you name only the repository, it lists the libraries and asks which one to install.
 
 Installing a library from GitHub needs git.
 The install downloads the text of each document from its source URL, so it needs network access.
+To run the script yourself, see [Install a library](#install-a-library).
 
 ### Ask a question
 
@@ -80,6 +86,11 @@ If the skill is installed at user level, run them from your home directory.
 
 ### Install a library
 
+Ask your agent to install a library.
+Give it a GitHub URL (optionally with a branch or subdirectory) or a local path, and the library name if the source has several.
+
+As a fallback, run the script yourself:
+
 ```sh
 # list the libraries a repository offers
 node .agents/skills/consult/scripts/add-library.mjs https://github.com/pnevyk/consult
@@ -99,8 +110,12 @@ node .agents/skills/consult/scripts/add-library.mjs ~/my-libraries my-library
 
 ### Update libraries
 
-`sync-libraries.mjs` re-installs every library in the lockfile from its source, which also updates them.
+Ask your agent to update the installed libraries.
+The skill runs `sync-libraries.mjs`, which re-installs every library in the lockfile from its source.
 It keeps the downloaded text of documents whose source URL did not change.
+Ask for a full refresh to download every document again.
+
+As a fallback, run the script yourself:
 
 ```sh
 node .agents/skills/consult/scripts/sync-libraries.mjs
@@ -110,7 +125,7 @@ node .agents/skills/consult/scripts/sync-libraries.mjs --refresh
 ```
 
 Updating the skill removes the installed libraries.
-Run `sync-libraries.mjs` afterwards to restore them.
+Ask your agent to update the libraries afterwards to restore them (or run `sync-libraries.mjs`).
 If you forget, the skill finds the lockfile entries without installed libraries and suggests the sync.
 
 ### Uninstall a library
